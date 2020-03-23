@@ -28,5 +28,4 @@ const selectSort = (arr) => {
 
 selectSort(arr);
 
-console.log(process.argv[2]);
 console.log(newArr); 
